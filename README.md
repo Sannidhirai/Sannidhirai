@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sannidhi Rai, Computer Science Engineer</h1>
 
-<h3 align="center">Passionate to lean something new, so lets learn new skills</h3>
+<h3 align="center">Passionate to lean something new s</h3>
 
 - 🌱 I’m currently learning **CI/CD, DevOps**
 - 🤝 I’m looking for help with **Learning process to Gain knowledge on Cloud Computing**
