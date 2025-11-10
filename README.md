@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sannidhi Rai, Computer Science Engineer</h1>
+<h1 align="center">Hi 👋, 
+  I'm Sannidhi Rai, Computer Science Engineer</h1>
 
 <h3 align="center">Passionate to lean something new, so lets learn new skills</h3>
 
