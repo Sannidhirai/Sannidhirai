@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sannidhi S Rai</h1>
-<h3 align="center">4th Year Computer Science Engineering student at A J Institute of Engineering and Technology ,Mangalore ,India</h3>
+<h3 align="center"> Computer Science Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sannidhirai&label=Profile%20views&color=0e75b6&style=flat" alt="Sannidhirai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sannidhirai&theme=" alt="Sannidhirai" /></a> </p>
