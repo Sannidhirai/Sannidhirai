@@ -17,10 +17,3 @@
   </a>
 </p>
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannidhirai&layout=compact&theme=" alt=Sannidhirai />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sannidhirai&show_icons=true&locale=en&theme=" alt="Sannidhirai" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sannidhirai&theme=" alt="Sannidhirai" /></p>
